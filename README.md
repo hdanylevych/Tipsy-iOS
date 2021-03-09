@@ -1,3 +1,3 @@
 # Tipsy-iOS
 
-![](Giff/Tipsy-demo.giff)
+![](Gif/Tipsy-demo.gif)
